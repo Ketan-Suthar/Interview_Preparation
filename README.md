@@ -5,9 +5,5 @@ Resource to prepare for tech interviews
 
 ### Free Resources
 
-```
 [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
 
-
-
-```
