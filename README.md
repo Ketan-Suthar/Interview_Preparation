@@ -3,7 +3,7 @@ Resource to prepare for tech interviews
 
 ## Data Structure And Algorithms
 
-### Free Resources
+### Youtube Channels
 
 [Uncode - Ravindra Babu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
 
@@ -47,6 +47,16 @@ Resource to prepare for tech interviews
 
 [scaler](https://www.scaler.com/)
 
+### Books
+
+[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+
+[The Algorithm Design Manual](https://www.amazon.in/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+
+[Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+
+[Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X)
+
 
 ## Sites for Competitive Programming
 
@@ -55,6 +65,8 @@ Resource to prepare for tech interviews
 [CodeChef](https://www.codechef.com/)
 
 [Hackerrank](https://www.hackerrank.com/)
+
+[Leetcode](http://leetcode.com/)
 
 [SPOJ](https://www.spoj.com/)
 
@@ -66,6 +78,8 @@ Resource to prepare for tech interviews
 
 [HackerEarth](https://www.hackerearth.com/)
 
+
+## DBMS
 
 
 
