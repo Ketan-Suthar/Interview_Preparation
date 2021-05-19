@@ -79,6 +79,35 @@ Resource to prepare for tech interviews
 [HackerEarth](https://www.hackerearth.com/)
 
 
+## System Design
+
+### Youtube Channels
+
+[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
+[Hussein Nasser ](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+
+[Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+
+### Paid Resources
+
+[AlgoExpert](https://www.algoexpert.io/product)
+
+[get.interviewready.io](https://get.interviewready.io/)
+
+### Other Bookmarks
+
+[system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+
+[System Design Interview Questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
+
+[checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+
+[madd86/awesome-system-design: A curated list of awesome system design mateiral](https://github.com/madd86/awesome-system-design)
+
+[Let’s implement a Bloom Filter | Extremely random blog posts from Onat](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
+
+
 ## DBMS & SQL
 
 ### Youtube Channels
