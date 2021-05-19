@@ -95,7 +95,7 @@ Resource to prepare for tech interviews
 
 [get.interviewready.io](https://get.interviewready.io/)
 
-### Other Bookmarks
+### Other Resources
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
 
