@@ -79,8 +79,33 @@ Resource to prepare for tech interviews
 [HackerEarth](https://www.hackerearth.com/)
 
 
-## DBMS
+## DBMS & SQL
+
+### Youtube Channels
+
+[Hussein Nasser ](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+
+[KNOWLEDGE GATE](https://www.youtube.com/watch?v=eTiP-H9GQ30&list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV&ab_channel=KNOWLEDGEGATE)
 
 
+### Books
+
+[Fundamentals of Database Systems](https://www.amazon.in/Fundamentals-Database-Systems-Ramez-Elmasri/dp/8131716252)
+
+[Head First SQL](https://www.amazon.in/Head-First-Brain-Friendly-Guide/dp/0596526849)
+
+[The Practical SQL Handbook](https://www.amazon.in/Practical-SQL-Handbook-Using-Variants/dp/0201703092)
+
+### SQL Practice
+
+[SQL Exercises: w3resource](https://www.w3resource.com/sql-exercises/)
+
+[hackerrank](https://www.hackerrank.com/domains/sql)
+
+[sqlzoo.net](https://sqlzoo.net/)
+
+[pgexercises.com](https://pgexercises.com/questions/joins/simplejoin.html)
+
+[sqlbolt.com](https://sqlbolt.com/)
 
 
